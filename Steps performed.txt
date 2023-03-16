@@ -1,0 +1,7 @@
+                                                             AMAZON YEAR WISE SALES REPORT 
+Steps performed in whole project :
+1)Connecting the database (Excel file)
+2)Analysing tables and relations.
+3)Data cleaning (Power query editor and DAX )
+4)Developing visualization Models.
+5)Creating a interactive report .
